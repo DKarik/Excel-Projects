@@ -57,8 +57,7 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 1. **Focus on North America** - Generates 55% of profits; maintain strong presence
 2. **Expand Asia operations** - Fast-growing region with 29% share
 3. **Optimize Online Channel** - Growth potential despite lower profit share
-4. **Review low-margin products** - Some MP3 players and phones show negative profits
-5. **Leverage January spike** - Capitalize on post-holiday/New Year sales momentum
+
 
 ---
 
