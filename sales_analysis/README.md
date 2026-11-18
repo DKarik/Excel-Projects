@@ -38,9 +38,9 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 - **TV and Video** at **$1.75M** (15.6%)
 
 ### 🌍 Regional Analysis
-- **North America** leads with **$6.23M** profit (55.5%)
-- **Asia** follows with **$3.24M** (28.9%)
-- **Europe** at **$1.76M** (15.7%)
+
+![Region_perfomance](profits_per_region.png)
+
 
 ### 🏪 Channel Performance
 
