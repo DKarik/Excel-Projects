@@ -61,8 +61,8 @@ VLOOKUP, IF, Nested IF, IFERROR, SUMIFS, COUNTIFS, AVERAGEIFS, PivotTables
 ## 5. Business Performance Analysis
 
 PivotTables were developed to examine business performance across several dimensions:
-
 **Monthly Performance**
+
 ![MP_Pivot table](Pt_mp.png)
 
 
