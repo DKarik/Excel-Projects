@@ -6,20 +6,6 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
-
-| Metric | Value |
-|--------|-------|
-| **Total Sales** | $17,284,123.59 |
-| **Total Profit** | $11,237,878.22 |
-| **Profit Margin** | ~65% |
-| **Manufacturers Tracked** | 10 |
-| **Product Categories** | 6 |
-| **Sales Channels** | 4 |
-| **Regions Covered** | 3 (Asia, Europe, North America) |
-
----
-
 ## 🏆 Key Findings & Insights
 
 ### 💰 Most Profitable Manufacturers
@@ -28,7 +14,7 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 
 ### 📦 Product Category Performance
 
-![Profit per product](profits_per_product.png)
+![Profit per product](profit_per_product.png)
 
 ### 🌍 Regional Analysis
 
