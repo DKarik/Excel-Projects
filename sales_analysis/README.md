@@ -27,9 +27,8 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 ![Sales and profits](SP.png)
 
 ### 📦 Product Category Performance
-- **Computers** dominate with **$4.79M** in profits (42.7% of total)
-- **Cameras and camcorders** follow at **$3.08M** (27.4%)
-- **TV and Video** at **$1.75M** (15.6%)
+
+![Profit per product](profits_per_product.png)
 
 ### 🌍 Regional Analysis
 
