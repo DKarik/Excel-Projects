@@ -51,7 +51,7 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 ### 📅 Monthly Sales Trend
 
 
-![Monthly_tend](sales_trend_pm.png)
+![Monthly_tend](Sales_trend_pm.png)
 
 ---
 
