@@ -24,13 +24,7 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 
 ### 💰 Most Profitable Manufacturers
 
-| Manufacturer | Profit | Sales |
-|--------------|--------|-------|
-| Adventure Works | $186,380 | $286,276 |
-| Fabrikam, Inc. | $180,990 | $284,378 |
-| Contoso, Ltd | $135,268 | $225,378 |
-| Wide World Importers | $123,236 | $182,103 |
-| Proseware, Inc. | $77,777 | $126,782 |
+![Sales and profits](SP.png)
 
 ### 📦 Product Category Performance
 - **Computers** dominate with **$4.79M** in profits (42.7% of total)
