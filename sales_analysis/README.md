@@ -34,6 +34,11 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 ![Monthly_tend](Sales_trend_pm.png)
 
 ---
+## Dashboard visuals 
+
+![Project Dashboard](Sales-dashboard.png)
+
+---
 
 ## 🛠️ Tools & Techniques Used
 
@@ -57,5 +62,3 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 
 ---
 
-#Dashboard Visuals 
-![Project Dashboard](Sales-dashboard.png)
