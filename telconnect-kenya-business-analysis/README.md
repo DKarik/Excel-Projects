@@ -76,16 +76,8 @@ PivotTables were developed to examine business performance across several dimens
 ![SP_Pivot table](Pt_sp.png)
 
 **Payment Method Analysis**
-- Examined the use and contribution of different payment methods.
+![MP_Pivot table](Pt_mp.png)
 
-**Customer Segment Analysis**
-- Compared completed recharge value across customer segments.
-
-**Transaction Status Analysis**
-- Examined completed, failed and reversed transactions.
-- Compared transaction counts and associated recharge values.
-
----
 
 ## 7. Key Findings and Business Recommendations
 
