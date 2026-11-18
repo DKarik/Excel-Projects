@@ -76,6 +76,8 @@ PivotTables were developed to examine business performance across several dimens
 ![SP_Pivot table](Pt_sp.png)
 
 **Payment Method Analysis**
+
+
 ![MP_Pivot table](Pt_mp.png)
 
 
