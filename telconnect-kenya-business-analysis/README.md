@@ -81,7 +81,13 @@ PivotTables were developed to examine business performance across several dimens
 ![MP_Pivot table](Pt_pp.png)
 
 
-## 7. Key Findings and Business Recommendations
+## 6. Business analysis
+
+![Business analysis pic](business_analysis.png)
+
+
+
+## 6. Key Findings and Business Recommendations
 
 The analysis was intended to identify performance patterns and generate practical business insights.
 
@@ -100,32 +106,3 @@ Key findings and recommendations are based on the actual results obtained from t
 - [Insert a recommendation supported by your findings.]
 - [Insert a recommendation supported by your findings.]
 
----
-
-## 8. Project Screenshots
-
-The following screenshots provide a visual overview of the Excel work completed, including data preparation, formula application, business calculations and PivotTable analysis.
-
-<!-- Insert your screenshots below -->
-
----
-
-## 9. Project Limitations
-
-- The dataset is synthetic and does not represent actual telecommunications company records.
-- TelConnect Kenya Ltd. is a fictional company.
-- Completed recharge value is used as a proxy for transaction revenue and should not be interpreted as audited accounting revenue.
-- The analysis identifies patterns in the supplied dataset but does not establish causal relationships.
-- Recharge value alone does not measure customer profitability, market share or customer lifetime value.
-
----
-
-## 10. Conclusion
-
-This project provided practical experience in applying Microsoft Excel to business performance analysis.
-
-Through data preparation, lookup formulas, conditional calculations and PivotTables, I explored how transaction data can be transformed into useful information for evaluating business performance.
-
-The project strengthened my practical understanding of Excel-based data analysis, business metrics, data interpretation and evidence-based recommendations.
-
-**Disclaimer:** This is an educational portfolio project based on simulated data.
