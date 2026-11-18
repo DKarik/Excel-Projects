@@ -58,6 +58,10 @@ The following Excel techniques were applied throughout the project:
 
 VLOOKUP, IF, Nested IF, IFERROR, SUMIFS, COUNTIFS, AVERAGEIFS, PivotTables
 
+An example of a vlookup used during the project:
+
+![Vlookup formula](vlookup.png)
+
 ## 5. Business Performance Analysis
 
 PivotTables were developed to examine business performance across several dimensions:
