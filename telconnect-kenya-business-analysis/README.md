@@ -83,7 +83,7 @@ PivotTables were developed to examine business performance across several dimens
 
 ## 6. Business analysis
 
-![Business analysis pic](business_analysis.png)
+![Business analysis pic](Bs_a.png)
 
 
 
