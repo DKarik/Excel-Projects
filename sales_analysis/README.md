@@ -49,9 +49,9 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 - **Catalog** at **$1.00M**
 
 ### 📅 Monthly Sales Trend
-- **January** peaks at **$1.82M** (highest sales month)
-- **February** dips to **$1.17M** (lowest)
-- Consistent performance around **$1.3M-$1.6M** for remaining months
+
+
+![Monthly_tend](sales_trend_pm.png)
 
 ---
 
