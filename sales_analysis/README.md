@@ -43,10 +43,11 @@ An interactive **Excel-based Sales Analytics Dashboard** designed to analyze mul
 - **Europe** at **$1.76M** (15.7%)
 
 ### 🏪 Channel Performance
-- **Store** is the most profitable channel at **$6.29M** (56%)
-- **Online** channels generate **$2.33M**
-- **Reseller** at **$1.61M**
-- **Catalog** at **$1.00M**
+
+
+![Channel_perfomance](profits_per_channel.png)
+
+
 
 ### 📅 Monthly Sales Trend
 
