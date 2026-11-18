@@ -16,7 +16,14 @@ The project investigated the following issues:
 6.Sales values that may not match the expected calculation
 
 Each issue was assessed before corrective action was taken to avoid removing valid information or introducing unsupported assumptions.
+---
+
 #raw data visual
 ![Raw data picture](raw.png)
-#Clean data visual
+
+---
+
+Clean data visual
 ![Clean data picture](clean.png)
+
+---
