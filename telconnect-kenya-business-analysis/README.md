@@ -103,7 +103,7 @@ Key findings and recommendations are based on the actual results obtained from t
 * **Overall Revenue & Transaction Health:** The platform generated **KES 316,010** in completed recharge revenue across **1,386** successful transactions, with an average transaction value of **KES 228.00**. However, **77 failed transactions** resulted in **KES 15,810** in lost revenue (a ~5.3% transaction failure rate).
 * **Payment Method Dominance:** **M-Pesa** is the primary payment driver, accounting for nearly **79%** of all completed transactions (**1,074**) and generating **KES 252,820** (80%) of completed revenue. Airtel Money is a distant second at KES 38,000 (across all statuses).
 * **Regional Performance:** **Mombasa** (KES 44,210) and **Kakamega** (KES 41,700) are the top-performing counties by completed revenue. In contrast, **Kisumu** recorded the lowest revenue at **KES 12,050**, while **Nairobi** underperformed relative to its market size at **KES 26,180** (averaging KES 214.59 per recharge compared to Mombasa's KES 231.47).
-* **Subscription Plan Distribution:** Revenue across subscription plans (including all transaction statuses) is fairly balanced, led by **Home Connect** (KES 45,280), **Flex Weekly** (KES 44,970), and **Lite Daily** (KES 44,870). *Note: A data anomaly labeled `"TRUE"` (KES 200) appears in the plan breakdown.*
+* **Subscription Plan Distribution:** Revenue across the eight subscription plans (including all transaction statuses) is fairly balanced at a total of **KES 341,110**, led by **Home Connect** (KES 45,280), **Flex Weekly** (KES 44,970), and **Lite Daily** (KES 44,870), while **Power Monthly** recorded the lowest share at KES 35,460.
 * **Seasonality Trends:** Completed monthly revenue peaked in **August** (KES 35,030) and **December** (KES 34,550), while experiencing notable dips in **May** (KES 21,550) and **July** (KES 21,650).
 
 ---
@@ -112,7 +112,7 @@ Key findings and recommendations are based on the actual results obtained from t
 
 * **Optimize Payment Reliability:** Prioritize M-Pesa gateway stability and investigate the root causes behind the **77 failed transactions** (such as network timeouts or payment processing errors) to recover the **KES 15,810** in lost revenue.
 * **Target Underperforming High-Potential Regions:** Launch localized marketing campaigns and user acquisition initiatives in **Nairobi** and **Kisumu** to bring their transaction volumes and average recharge values closer to top-performing counties like Mombasa.
+* **Boost Underperforming Plans:** Review the pricing, data allocation, or marketing visibility of **Power Monthly** (KES 35,460) and **Business Plus** (KES 40,610) to increase adoption alongside top-performing plans like Home Connect and Flex Weekly.
 * **Leverage Seasonal Peaks & Address Dips:** Introduce targeted promotions, bundle discounts, or loyalty rewards during slower months (**May, July, and November**) to stabilize cash flow, while scaling infrastructure and marketing ahead of peak demand in **August and December**.
-* **Clean Source Data:** Audit and clean the raw dataset to resolve the `"TRUE"` entry under subscription plans and ensure all plan names are accurately categorized for future reporting.
 
 
