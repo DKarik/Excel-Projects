@@ -82,6 +82,7 @@ PivotTables were developed to examine business performance across several dimens
 
 
 ## 6. Business analysis
+Formula used: SUMIF, COUNTIF and AVERAGE IF 
 
 ![Business analysis pic](Bs_a.png)
 
